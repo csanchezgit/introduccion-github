@@ -1,0 +1,12 @@
+# No será tenido en cuenta
+*.tmp
+*~
+
+# Los archivos que terminan en "o" o en "a"
+*.[oa]
+
+# Archivo a tener en cuenta
+!importante.tmp
+
+#Directorio
+#privado/
